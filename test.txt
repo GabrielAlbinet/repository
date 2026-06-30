@@ -2,5 +2,7 @@ test
 premiere modif du fichier
 j'ai oublié le nombre de commit à faire
 ajout depuis la branche
+<<<<<<< HEAD
 ajout depuis la dexuième branche
 ajout depuis la troisième branche
+test merge sur branche1
